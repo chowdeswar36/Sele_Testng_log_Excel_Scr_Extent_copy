@@ -1,0 +1,39 @@
+2022-02-14 15:43:57,691 - DEBUG com.cg.TestCases.TC_001 setup - chrome browser intialised 
+2022-02-14 15:43:57,835 - DEBUG com.cg.TestCases.TC_001 setup - Browser maximised 
+2022-02-14 15:44:02,057 - DEBUG com.cg.TestCases.TC_001 login - user entered baseurl https://opensource-demo.orangehrmlive.com/ 
+2022-02-14 15:44:02,231 - DEBUG com.cg.TestCases.TC_001 login - user enters username admin 
+2022-02-14 15:44:02,232 - DEBUG com.cg.TestCases.TC_001 login - user enters password 12345 
+2022-02-14 15:44:04,077 - DEBUG com.cg.TestCases.TC_001 login - user clicked on login button 
+2022-02-14 15:44:04,645 - DEBUG com.cg.TestCases.TC_001 onTestFailure - FAIL status written into Excel 
+2022-02-14 15:44:04,646 - WARN com.cg.TestCases.TC_001 onTestFailure - This is Failed Test :login 
+2022-02-14 15:44:04,650 - DEBUG com.cg.TestCases.TC_001 onTestFailure - Taken Screenshot and attached it to report 
+2022-02-14 15:44:04,840 - DEBUG com.cg.TestCases.TC_001 teardown - browser closed 
+2022-02-14 15:44:06,962 - DEBUG com.cg.TestCases.TC_001 setup - chrome browser intialised 
+2022-02-14 15:44:07,104 - DEBUG com.cg.TestCases.TC_001 setup - Browser maximised 
+2022-02-14 15:44:10,705 - DEBUG com.cg.TestCases.TC_001 login - user entered baseurl https://opensource-demo.orangehrmlive.com/ 
+2022-02-14 15:44:10,825 - DEBUG com.cg.TestCases.TC_001 login - user enters username rao 
+2022-02-14 15:44:10,826 - DEBUG com.cg.TestCases.TC_001 login - user enters password 12453 
+2022-02-14 15:44:12,356 - DEBUG com.cg.TestCases.TC_001 login - user clicked on login button 
+2022-02-14 15:44:12,632 - DEBUG com.cg.TestCases.TC_001 onTestFailure - FAIL status written into Excel 
+2022-02-14 15:44:12,632 - WARN com.cg.TestCases.TC_001 onTestFailure - This is Failed Test :login 
+2022-02-14 15:44:12,632 - DEBUG com.cg.TestCases.TC_001 onTestFailure - Taken Screenshot and attached it to report 
+2022-02-14 15:44:12,807 - DEBUG com.cg.TestCases.TC_001 teardown - browser closed 
+2022-02-14 15:44:14,937 - DEBUG com.cg.TestCases.TC_001 setup - chrome browser intialised 
+2022-02-14 15:44:15,071 - DEBUG com.cg.TestCases.TC_001 setup - Browser maximised 
+2022-02-14 15:44:18,667 - DEBUG com.cg.TestCases.TC_001 login - user entered baseurl https://opensource-demo.orangehrmlive.com/ 
+2022-02-14 15:44:18,793 - DEBUG com.cg.TestCases.TC_001 login - user enters username admin  
+2022-02-14 15:44:18,794 - DEBUG com.cg.TestCases.TC_001 login - user enters password admin123 
+2022-02-14 15:44:23,627 - DEBUG com.cg.TestCases.TC_001 login - user clicked on login button 
+2022-02-14 15:44:23,756 - DEBUG com.cg.TestCases.TC_001 onTestSuccess - PASS status written into Excel 
+2022-02-14 15:44:23,756 - DEBUG com.cg.TestCases.TC_001 onTestSuccess - This is Passed Test :login 
+2022-02-14 15:44:23,966 - DEBUG com.cg.TestCases.TC_001 teardown - browser closed 
+2022-02-14 15:44:26,157 - DEBUG com.cg.TestCases.TC_001 setup - chrome browser intialised 
+2022-02-14 15:44:26,300 - DEBUG com.cg.TestCases.TC_001 setup - Browser maximised 
+2022-02-14 15:44:29,885 - DEBUG com.cg.TestCases.TC_001 login - user entered baseurl https://opensource-demo.orangehrmlive.com/ 
+2022-02-14 15:44:30,006 - DEBUG com.cg.TestCases.TC_001 login - user enters username dcr 
+2022-02-14 15:44:30,006 - DEBUG com.cg.TestCases.TC_001 login - user enters password 12453 
+2022-02-14 15:44:31,637 - DEBUG com.cg.TestCases.TC_001 login - user clicked on login button 
+2022-02-14 15:44:31,882 - DEBUG com.cg.TestCases.TC_001 onTestFailure - FAIL status written into Excel 
+2022-02-14 15:44:31,882 - WARN com.cg.TestCases.TC_001 onTestFailure - This is Failed Test :login 
+2022-02-14 15:44:31,882 - DEBUG com.cg.TestCases.TC_001 onTestFailure - Taken Screenshot and attached it to report 
+2022-02-14 15:44:32,048 - DEBUG com.cg.TestCases.TC_001 teardown - browser closed 
